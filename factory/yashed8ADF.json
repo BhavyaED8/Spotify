@@ -1,0 +1,15 @@
+{
+	"name": "yashed8ADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9390f684-e137-47b5-816a-acfd18895a21",
+		"tenantId": "d3c63480-a391-4d55-8086-a7d305b99b1f"
+	}
+}
