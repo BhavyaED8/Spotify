@@ -309,7 +309,8 @@
 						"activity": "ifincrementadata",
 						"dependencyConditions": [
 							"Skipped",
-							"Failed"
+							"Failed",
+							"Succeeded"
 						]
 					}
 				],
